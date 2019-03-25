@@ -24,3 +24,4 @@ https://xander0627.github.io/vue-movie/dist/#/
 ## 二维码
 ![项目预览](.\static\img\erweima.png)
 
+
