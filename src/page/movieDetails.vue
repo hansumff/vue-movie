@@ -2,7 +2,7 @@
     <div>
         <header-top :showState='showState'></header-top>
         <div class="movieDetails" v-for="item in movieMessage" key="item">
-            <div class="bg_img"></div>
+            <div class="bg_img"  :style="{backgroundImage:'url(' + item.images.small + ')'}"></div>
             <div class="details_message">
                 <section class="top_content">
                     <div class="images">
